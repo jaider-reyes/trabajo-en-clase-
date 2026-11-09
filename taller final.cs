@@ -312,7 +312,7 @@ public class Program
             sumaPrecios / habitaciones.Length;
 
         Console.WriteLine(
-            "\n=== MÉTRICAS FINALES ===");
+            "\n=== HABITACIONES FINALES ===");
 
         Console.WriteLine(
             "Habitaciones ocupadas: " +
